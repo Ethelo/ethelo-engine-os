@@ -1,0 +1,23 @@
+version: '0'
+services:
+  engine:
+    build:
+      context: .
+    entrypoint: /app/tools/entrypoint
+    working_dir: /app/build
+    command: make test
+    volumes:
+      - ./:/app
+    environment:
+      VOLUME: /app
+      DOCKER_USER: daemon
+      DOCKER_GROUP: daemon
+      HOST_USER_ID: ${UID}
+      HOST_GROUP_ID: ${UID}
+      CTEST_OUTPUT_ON_FAILURE: 1
+      ENGINE_LOG_PATH: /app/log/engine.log
+      ENGINE_LOG_LEVEL: 5
+    security_opt:
+        - seccomp:unconfined
+    cap_add:
+        - SYS_PTRACE

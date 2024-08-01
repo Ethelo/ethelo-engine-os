@@ -1,0 +1,5883 @@
+{
+  "options": [
+    {
+      "name": "0-increase",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctax-increase-i-support"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 0.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 1,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "0-increase-tax-increase-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctax-increase-i-support"
+        },
+        {
+          "value": 2.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 0.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 1,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "0-increase-tax-increase-3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctax-increase-i-support"
+        },
+        {
+          "value": 3.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 0.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 1,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "0-increase-tax-increase-4",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctax-increase-i-support"
+        },
+        {
+          "value": 4.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 0.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 1,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "0-increase-tax-increase-5",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctax-increase-i-support"
+        },
+        {
+          "value": 5.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 0.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 1,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "1-increase",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctax-increase-i-support"
+        },
+        {
+          "value": 1.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 0.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 1,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "10-increase",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cwaterinfra"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 10.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "15-increase",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cwaterinfra"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 15.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "20-increase",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cwaterinfra"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 20.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "4-increase",
+      "details": [
+        {
+          "value": 1,
+          "name": "Csewer-infr"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 4.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "8-increase",
+      "details": [
+        {
+          "value": 1,
+          "name": "Csewer-infr"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 8.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "fire--1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfire-services"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 58.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 61.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "fire--2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfire-services"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 55.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 61.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "fire--3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfire-services"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 52.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 61.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "fire-0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfire-services"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 61.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 61.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "fire-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfire-services"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 64.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 61.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "fire-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfire-services"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 67.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 61.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "fire-3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfire-services"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 71.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 61.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "firemax",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfire-services"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 74.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 61.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "firemin",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfire-services"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 49.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 61.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "keepsame",
+      "details": [
+        {
+          "value": 1,
+          "name": "Csewer-infr"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 0.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "keepthesmae",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cwaterinfra"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 0.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 0.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "parks--1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-parksand-playgrounds"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 124.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 130.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "parks--2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-parksand-playgrounds"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 117.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 130.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "parks--3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-parksand-playgrounds"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 111.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 130.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "parks-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-parksand-playgrounds"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 137.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 130.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "parks-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-parksand-playgrounds"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 143.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 130.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "parks-3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-parksand-playgrounds"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 150.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 130.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "parks0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-parksand-playgrounds"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 130.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 130.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "parksmax",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-parksand-playgrounds"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 156.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 130.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "parksmin",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-parksand-playgrounds"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 104.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 130.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "police--1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpoliceservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 325.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 342.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "police--2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpoliceservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 308.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 342.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "police--3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpoliceservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 291.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 342.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "police-0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpoliceservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 342.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 342.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "police-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpoliceservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 359.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 342.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "police-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpoliceservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 376.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 342.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "police-3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpoliceservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 393.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 342.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "policemax",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpoliceservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 410.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 342.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "policemin",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpoliceservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 273.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 342.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "recreation--1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-recreation"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 223.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 235.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "recreation--2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-recreation"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 211.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 235.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "recreation--3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-recreation"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 199.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 235.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "recreation-0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-recreation"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 235.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 235.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "recreation-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-recreation"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 246.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 235.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "recreation-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-recreation"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 258.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 235.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "recreation-3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-recreation"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 270.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 235.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "recreationmax",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-recreation"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 281.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 235.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "recreationmin",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cfunding-recreation"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 188.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 235.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "transportation--1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctransportationservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 395.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 416.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "transportation--2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctransportationservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 374.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 416.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "transportation--3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctransportationservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 354.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 416.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "transportation-0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctransportationservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 416.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 416.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "transportation-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctransportationservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 437.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 416.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "transportation-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctransportationservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 458.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 416.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "transportation-3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctransportationservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 478.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 416.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "transportationmax",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctransportationservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 499.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 416.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "transportationmin",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ctransportationservices"
+        },
+        {
+          "value": 0.0,
+          "name": "Dtax_increase"
+        },
+        {
+          "value": 333.0,
+          "name": "Dadjusted_tax"
+        },
+        {
+          "value": 416.0,
+          "name": "Ddefault_tax"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_parks_and_playgrounds_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_police_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_recreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gfunding_water_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsewer_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gslider_tick_label"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label__1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_0"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_1"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_2"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_3"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_4"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_5"
+        },
+        {
+          "value": 0,
+          "name": "Gslider_tick_label_text"
+        },
+        {
+          "value": 0,
+          "name": "Gtax_increase_i_support_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gtransportation_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    }
+  ],
+  "fragments": [
+    {
+      "name": "all_options_selected_count",
+      "code": "$Gall_options"
+    },
+    {
+      "name": "all_options_all_count",
+      "code": "58"
+    },
+    {
+      "name": "default_tax_all_mean",
+      "code": "mean_all[i in x]{$Ddefault_tax[i]}"
+    },
+    {
+      "name": "default_tax_selected_mean",
+      "code": "mean[i in x]{$Ddefault_tax[i]}"
+    },
+    {
+      "name": "default_tax_all_sum",
+      "code": "sum_all[i in x]{$Ddefault_tax[i]}"
+    },
+    {
+      "name": "default_tax_selected_sum",
+      "code": "$Ddefault_tax"
+    },
+    {
+      "name": "uncategorized_options_yes_selected_count",
+      "code": "$Guncategorized_options_yes"
+    },
+    {
+      "name": "uncategorized_options_yes_all_count",
+      "code": "0"
+    },
+    {
+      "name": "adjusted_tax_all_mean",
+      "code": "mean_all[i in x]{$Dadjusted_tax[i]}"
+    },
+    {
+      "name": "adjusted_tax_selected_mean",
+      "code": "mean[i in x]{$Dadjusted_tax[i]}"
+    },
+    {
+      "name": "adjusted_tax_all_sum",
+      "code": "sum_all[i in x]{$Dadjusted_tax[i]}"
+    },
+    {
+      "name": "adjusted_tax_selected_sum",
+      "code": "$Dadjusted_tax"
+    },
+    {
+      "name": "funding_police_services_yes_all_count",
+      "code": "9"
+    },
+    {
+      "name": "funding_police_services_yes_selected_count",
+      "code": "$Gfunding_police_services_yes"
+    },
+    {
+      "name": "funding_fire_services_yes_all_count",
+      "code": "9"
+    },
+    {
+      "name": "funding_fire_services_yes_selected_count",
+      "code": "$Gfunding_fire_services_yes"
+    },
+    {
+      "name": "funding_recreation_yes_all_count",
+      "code": "9"
+    },
+    {
+      "name": "funding_recreation_yes_selected_count",
+      "code": "$Gfunding_recreation_yes"
+    },
+    {
+      "name": "funding_parks_and_playgrounds_yes_all_count",
+      "code": "9"
+    },
+    {
+      "name": "funding_parks_and_playgrounds_yes_selected_count",
+      "code": "$Gfunding_parks_and_playgrounds_yes"
+    },
+    {
+      "name": "transportation_services_yes_all_count",
+      "code": "9"
+    },
+    {
+      "name": "transportation_services_yes_selected_count",
+      "code": "$Gtransportation_services_yes"
+    },
+    {
+      "name": "slider_tick_label_selected_count",
+      "code": "$Gslider_tick_label"
+    },
+    {
+      "name": "slider_tick_label_all_count",
+      "code": "52"
+    },
+    {
+      "name": "slider_tick_label_1_selected_count",
+      "code": "$Gslider_tick_label__1"
+    },
+    {
+      "name": "slider_tick_label_1_all_count",
+      "code": "0"
+    },
+    {
+      "name": "slider_tick_label_text_selected_count",
+      "code": "$Gslider_tick_label_text"
+    },
+    {
+      "name": "slider_tick_label_text_all_count",
+      "code": "0"
+    },
+    {
+      "name": "tax_increase_all_mean",
+      "code": "mean_all[i in x]{$Dtax_increase[i]}"
+    },
+    {
+      "name": "tax_increase_selected_mean",
+      "code": "mean[i in x]{$Dtax_increase[i]}"
+    },
+    {
+      "name": "tax_increase_all_sum",
+      "code": "sum_all[i in x]{$Dtax_increase[i]}"
+    },
+    {
+      "name": "tax_increase_selected_sum",
+      "code": "$Dtax_increase"
+    },
+    {
+      "name": "tax_increase_i_support_yes_all_count",
+      "code": "6"
+    },
+    {
+      "name": "tax_increase_i_support_yes_selected_count",
+      "code": "$Gtax_increase_i_support_yes"
+    },
+    {
+      "name": "slider_tick_label_0_selected_count",
+      "code": "$Gslider_tick_label_0"
+    },
+    {
+      "name": "slider_tick_label_0_all_count",
+      "code": "1"
+    },
+    {
+      "name": "slider_tick_label_2_selected_count",
+      "code": "$Gslider_tick_label_2"
+    },
+    {
+      "name": "slider_tick_label_2_all_count",
+      "code": "1"
+    },
+    {
+      "name": "slider_tick_label_3_selected_count",
+      "code": "$Gslider_tick_label_3"
+    },
+    {
+      "name": "slider_tick_label_3_all_count",
+      "code": "1"
+    },
+    {
+      "name": "slider_tick_label_4_selected_count",
+      "code": "$Gslider_tick_label_4"
+    },
+    {
+      "name": "slider_tick_label_4_all_count",
+      "code": "1"
+    },
+    {
+      "name": "slider_tick_label_5_all_count",
+      "code": "1"
+    },
+    {
+      "name": "slider_tick_label_5_selected_count",
+      "code": "$Gslider_tick_label_5"
+    },
+    {
+      "name": "funding_water_infrastructure_yes_all_count",
+      "code": "4"
+    },
+    {
+      "name": "funding_water_infrastructure_yes_selected_count",
+      "code": "$Gfunding_water_infrastructure_yes"
+    },
+    {
+      "name": "sewer_infrastructure_yes_all_count",
+      "code": "3"
+    },
+    {
+      "name": "sewer_infrastructure_yes_selected_count",
+      "code": "$Gsewer_infrastructure_yes"
+    }
+  ],
+  "displays": [
+    {
+      "name": "tax-total-difference",
+      "code": "@adjusted_tax_selected_sum - @default_tax_selected_sum"
+    },
+    {
+      "name": "default-tax-total",
+      "code": "@default_tax_selected_sum + 145.65"
+    },
+    {
+      "name": "adjusted-tax-total",
+      "code": "@adjusted_tax_selected_sum + 145.65"
+    },
+    {
+      "name": "adjusted-tax-selected-sum-default-tax-selected-sum",
+      "code": "( @adjusted_tax_selected_sum - @default_tax_selected_sum ) / @default_tax_selected_sum"
+    },
+    {
+      "name": "tax-increase-i-support",
+      "code": "@tax_increase_selected_sum / 100"
+    }
+  ],
+  "criteria": [
+    "approval"
+  ],
+  "constraints": [
+    {
+      "name": "__auto_xor3176",
+      "code": "[@funding_police_services_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor3178",
+      "code": "[@funding_fire_services_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor3180",
+      "code": "[@funding_recreation_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor3182",
+      "code": "[@funding_parks_and_playgrounds_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor3184",
+      "code": "[@transportation_services_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor3264",
+      "code": "[@tax_increase_i_support_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor3276",
+      "code": "[@funding_water_infrastructure_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor3278",
+      "code": "[@sewer_infrastructure_yes_selected_count] = 1.0"
+    }
+  ]
+}

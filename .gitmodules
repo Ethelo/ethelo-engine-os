@@ -1,0 +1,18 @@
+[submodule "Catch2"]
+    path = 3rdparty/Catch2
+    url = https://github.com/catchorg/Catch2.git
+[submodule "CppAD"]
+	path = 3rdparty/CppAD
+	url = https://github.com/Ethelo/CppAD.git
+[submodule "libantlr3c"]
+	path = 3rdparty/libantlr3c
+	url = https://github.com/Ethelo/libantlr3c
+[submodule "rapidjson"]
+	path = 3rdparty/rapidjson
+	url = https://github.com/Ethelo/rapidjson.git
+[submodule "Bonmin"]
+	path = 3rdparty/Bonmin
+	url = https://github.com/Ethelo/Bonmin.git
+[submodule "3rdparty/plog"]
+	path = 3rdparty/plog
+	url = https://github.com/Ethelo/plog

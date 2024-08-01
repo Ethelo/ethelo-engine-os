@@ -1,0 +1,305 @@
+{
+  "options": [
+    {
+      "name": "artemis_united",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cuncategorized"
+        },
+        {
+          "value": 6.0e4,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gtarget_root_cause_yes"
+        },
+        {
+          "value": 1,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "benice2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cuncategorized"
+        },
+        {
+          "value": 8.5e4,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gtarget_root_cause_yes"
+        },
+        {
+          "value": 1,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "books_from_above",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cuncategorized"
+        },
+        {
+          "value": 7.5e4,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gtarget_root_cause_yes"
+        },
+        {
+          "value": 1,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "cascadia_youth_rights",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cuncategorized"
+        },
+        {
+          "value": 5.0e4,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gtarget_root_cause_yes"
+        },
+        {
+          "value": 1,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "eatworks_int",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cuncategorized"
+        },
+        {
+          "value": 5.0e4,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gtarget_root_cause_yes"
+        },
+        {
+          "value": 1,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "green_sphere_alliance",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cuncategorized"
+        },
+        {
+          "value": 7.5e4,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gtarget_root_cause_yes"
+        },
+        {
+          "value": 1,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "handsoff_alliance",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cuncategorized"
+        },
+        {
+          "value": 5.0e4,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gtarget_root_cause_yes"
+        },
+        {
+          "value": 1,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "hot_sky_group",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cuncategorized"
+        },
+        {
+          "value": 1.0e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gtarget_root_cause_yes"
+        },
+        {
+          "value": 1,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "ifl_worldgroup",
+      "details": [
+        {
+          "value": 1.0e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gtarget_root_cause_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "walking_strong_group",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cuncategorized"
+        },
+        {
+          "value": 9.0e4,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gtarget_root_cause_yes"
+        },
+        {
+          "value": 1,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    }
+  ],
+  "fragments": [
+    {
+      "name": "uncategorized_options_yes_all_count",
+      "code": "9"
+    },
+    {
+      "name": "uncategorized_options_yes_selected_count",
+      "code": "$Guncategorized_options_yes"
+    },
+    {
+      "name": "target_root_cause_yes_all_count",
+      "code": "1"
+    },
+    {
+      "name": "target_root_cause_yes_selected_count",
+      "code": "$Gtarget_root_cause_yes"
+    },
+    {
+      "name": "all_options_all_count",
+      "code": "10"
+    },
+    {
+      "name": "all_options_selected_count",
+      "code": "$Gall_options"
+    },
+    {
+      "name": "cost_all_mean",
+      "code": "mean_all[i in x]{$Dcost[i]}"
+    },
+    {
+      "name": "cost_selected_mean",
+      "code": "mean[i in x]{$Dcost[i]}"
+    },
+    {
+      "name": "cost_all_sum",
+      "code": "sum_all[i in x]{$Dcost[i]}"
+    },
+    {
+      "name": "cost_selected_sum",
+      "code": "$Dcost"
+    }
+  ],
+  "criteria": [
+    "collaboration",
+    "replicability",
+    "secured-co-funding",
+    "sustainability",
+    "target-root-cause"
+  ],
+  "constraints": [
+    {
+      "name": "maxtotal_cost_dollars",
+      "code": "[@cost_selected_sum] <= 3.0e5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tipping_point": 0.33333,
+  "support_only": false,
+  "solution_limit": 1,
+  "single_outcome": false,
+  "per_option_satisfaction": false,
+  "normalize_satisfaction": false,
+  "normalize_influents": false,
+  "issues": [
+    "Csewer-infr",
+    "Cwaterinfra",
+    "Ctax-increase-i-support",
+    "Ctransportationservices",
+    "Cfunding-parksand-playgrounds",
+    "Cfunding-recreation",
+    "Cfire-services",
+    "Cpoliceservices",
+    "Cuncategorized"
+  ],
+  "histogram_bins": 5,
+  "collective_identity": 0.5
+}

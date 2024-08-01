@@ -1,0 +1,21 @@
+{ 
+  "tipping_point": 0.33333,
+  "support_only": false,
+  "solution_limit": 1,
+  "single_outcome": false,
+  "per_option_satisfaction": false,
+  "normalize_satisfaction": false,
+  "normalize_influents": false,
+  "issues": [
+    "Crecreation",
+    "Ceducation",
+    "Chealth_and_safety",
+    "Cenvironment",
+    "Ccity_improvements",
+    "Cpolice_and_fire_services",
+    "Cspecial-topic",
+    "Cuncategorized"
+  ],
+  "histogram_bins": 5,
+  "collective_identity": 0.5
+}

@@ -1,0 +1,1138 @@
+{
+  "options": [
+    {
+      "name": "beautification_slash_arts_block_grant",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ccity_improvements"
+        },
+        {
+          "value": 4.0e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "better_street_lighting",
+      "details": [
+        {
+          "value": 1,
+          "name": "Chealth_and_safety"
+        },
+        {
+          "value": 2.95e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 1,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "business_slash_non_profit_resource_centre",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ceducation"
+        },
+        {
+          "value": 1.8e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 1,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "community_honey_bee_gardens",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ccity_improvements"
+        },
+        {
+          "value": 1.33e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "community_pet_clinic",
+      "details": [
+        {
+          "value": 1,
+          "name": "Chealth_and_safety"
+        },
+        {
+          "value": 2.9e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 1,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "fire_rescue_vehicle",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpolice_and_fire_services"
+        },
+        {
+          "value": 7.5e4,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "homeless_shelter",
+      "details": [
+        {
+          "value": 1,
+          "name": "Chealth_and_safety"
+        },
+        {
+          "value": 1.68e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 1,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "improve_historic_area",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ccity_improvements"
+        },
+        {
+          "value": 3.0e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "improvement_of_southern_waterfront",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ccity_improvements"
+        },
+        {
+          "value": 2.01e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "mindfulness_training_in_schools",
+      "details": [
+        {
+          "value": 1,
+          "name": "Chealth_and_safety"
+        },
+        {
+          "value": 6.5e4,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 1,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "neighborhood_law_program",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpolice_and_fire_services"
+        },
+        {
+          "value": 1.5e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "new_police_officers",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpolice_and_fire_services"
+        },
+        {
+          "value": 4.0e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "option1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cspecial-topic"
+        },
+        {
+          "value": 100.0,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "option2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cspecial-topic"
+        },
+        {
+          "value": 110.0,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "option3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cspecial-topic"
+        },
+        {
+          "value": 120.0,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "option4",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cspecial-topic"
+        },
+        {
+          "value": 130.0,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "solar_panels_on_city_buildings",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cenvironment"
+        },
+        {
+          "value": 2.5e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "teen_recreation_centre",
+      "details": [
+        {
+          "value": 1,
+          "name": "Crecreation"
+        },
+        {
+          "value": 2.25e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "the_friends_of_river_park",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cenvironment"
+        },
+        {
+          "value": 1.5e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "unemployment_training_centre",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ceducation"
+        },
+        {
+          "value": 1.75e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 1,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 0,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    },
+    {
+      "name": "upgrade_parks",
+      "details": [
+        {
+          "value": 1,
+          "name": "Crecreation"
+        },
+        {
+          "value": 2.88e5,
+          "name": "Dcost"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcity_improvements_yes"
+        },
+        {
+          "value": 0,
+          "name": "Geducation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Genvironment_yes"
+        },
+        {
+          "value": 0,
+          "name": "Ghealth_and_safety_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpolice_and_fire_services_yes"
+        },
+        {
+          "value": 1,
+          "name": "Grecreation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gspecial_topic_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        }
+      ]
+    }
+  ],
+  "fragments": [
+    {
+      "name": "uncategorized_options_yes_all_count",
+      "code": "0"
+    },
+    {
+      "name": "uncategorized_options_yes_selected_count",
+      "code": "$Guncategorized_options_yes"
+    },
+    {
+      "name": "recreation_yes_all_count",
+      "code": "2"
+    },
+    {
+      "name": "recreation_yes_selected_count",
+      "code": "$Grecreation_yes"
+    },
+    {
+      "name": "education_yes_all_count",
+      "code": "2"
+    },
+    {
+      "name": "education_yes_selected_count",
+      "code": "$Geducation_yes"
+    },
+    {
+      "name": "health_and_safety_yes_all_count",
+      "code": "4"
+    },
+    {
+      "name": "health_and_safety_yes_selected_count",
+      "code": "$Ghealth_and_safety_yes"
+    },
+    {
+      "name": "environment_yes_all_count",
+      "code": "2"
+    },
+    {
+      "name": "environment_yes_selected_count",
+      "code": "$Genvironment_yes"
+    },
+    {
+      "name": "city_improvements_yes_all_count",
+      "code": "4"
+    },
+    {
+      "name": "city_improvements_yes_selected_count",
+      "code": "$Gcity_improvements_yes"
+    },
+    {
+      "name": "police_and_fire_services_yes_all_count",
+      "code": "3"
+    },
+    {
+      "name": "police_and_fire_services_yes_selected_count",
+      "code": "$Gpolice_and_fire_services_yes"
+    },
+    {
+      "name": "all_options_all_count",
+      "code": "21"
+    },
+    {
+      "name": "all_options_selected_count",
+      "code": "$Gall_options"
+    },
+    {
+      "name": "cost_all_mean",
+      "code": "mean_all[i in x]{$Dcost[i]}"
+    },
+    {
+      "name": "cost_selected_mean",
+      "code": "mean[i in x]{$Dcost[i]}"
+    },
+    {
+      "name": "cost_all_sum",
+      "code": "sum_all[i in x]{$Dcost[i]}"
+    },
+    {
+      "name": "cost_selected_sum",
+      "code": "$Dcost"
+    },
+    {
+      "name": "special_topic_yes_selected_count",
+      "code": "$Gspecial_topic_yes"
+    },
+    {
+      "name": "special_topic_yes_all_count",
+      "code": "4"
+    }
+  ],
+  "displays": [
+    {
+      "name": "total_cost_dollars",
+      "code": "@cost_selected_sum"
+    }
+  ],
+  "criteria": [
+    "approval"
+  ],
+  "constraints": [
+    {
+      "name": "budget-limit-1-5m",
+      "code": "[@cost_selected_sum] <= 1.5e6"
+    }
+  ]
+}

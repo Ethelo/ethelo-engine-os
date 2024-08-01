@@ -1,0 +1,4102 @@
+{
+  "options": [
+    {
+      "name": "buses-replaced---0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cconverting-existing-buses-to-electric"
+        },
+        {
+          "value": 0.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "buses-replaced---x",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cconverting-existing-buses-to-electric"
+        },
+        {
+          "value": 6528.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 64.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "buses-replaced---x--x-4",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cconverting-existing-buses-to-electric"
+        },
+        {
+          "value": 4896.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 48.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "buses-replaced---x-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cconverting-existing-buses-to-electric"
+        },
+        {
+          "value": 3264.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 32.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "buses-replaced---x-4",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cconverting-existing-buses-to-electric"
+        },
+        {
+          "value": 1632.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 16.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "houses-retrofit---0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Csingle-family-homes"
+        },
+        {
+          "value": 0.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "houses-retrofit---11-775",
+      "details": [
+        {
+          "value": 1,
+          "name": "Csingle-family-homes"
+        },
+        {
+          "value": 105975.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 11775.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "houses-retrofit---2944",
+      "details": [
+        {
+          "value": 1,
+          "name": "Csingle-family-homes"
+        },
+        {
+          "value": 26494.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 2944.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "houses-retrofit---5887",
+      "details": [
+        {
+          "value": 1,
+          "name": "Csingle-family-homes"
+        },
+        {
+          "value": 52987.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 5887.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "houses-retrofit---8-831",
+      "details": [
+        {
+          "value": 1,
+          "name": "Csingle-family-homes"
+        },
+        {
+          "value": 79481.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 8831.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "swimming-pools-retrofit---0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cswimming-pool-solarization"
+        },
+        {
+          "value": 0.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "swimming-pools-retrofit---1-100",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cswimming-pool-solarization"
+        },
+        {
+          "value": 3259.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 1.1e3,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "swimming-pools-retrofit---1-650",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cswimming-pool-solarization"
+        },
+        {
+          "value": 4889.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 1650.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "swimming-pools-retrofit---2200",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cswimming-pool-solarization"
+        },
+        {
+          "value": 6519.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 2.2e3,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "swimming-pools-retrofit---550",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cswimming-pool-solarization"
+        },
+        {
+          "value": 1630.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 550.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "units-replaced",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cdistrict-heating"
+        },
+        {
+          "value": 14350.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 2659.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "units-replaced---0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cdistrict-heating"
+        },
+        {
+          "value": 0.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "units-replaced---x--x-4",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cdistrict-heating"
+        },
+        {
+          "value": 10763.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 1994.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "units-replaced---x-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cdistrict-heating"
+        },
+        {
+          "value": 7175.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 1329.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "units-replaced---x-4",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cdistrict-heating"
+        },
+        {
+          "value": 3587.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 665.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "units-retrofit---0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cmulti-family-homes"
+        },
+        {
+          "value": 0.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 1,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "units-retrofit---0-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cmulti-family-homes"
+        },
+        {
+          "value": 21528.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 3975.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 1,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "units-retrofit---1325",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cmulti-family-homes"
+        },
+        {
+          "value": 7176.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 1325.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 1,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "units-retrofit---2-650",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cmulti-family-homes"
+        },
+        {
+          "value": 14352.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 2650.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 1,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "units-retrofit---5-300",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cmulti-family-homes"
+        },
+        {
+          "value": 28705.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 5.3e3,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 1,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpersonal-vehicles"
+        },
+        {
+          "value": 0.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---0-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cnew-bus-routes"
+        },
+        {
+          "value": 0.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---0-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ccycling-infrastructure"
+        },
+        {
+          "value": 0.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpersonal-vehicles"
+        },
+        {
+          "value": 81990.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 20497.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x--x-4",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpersonal-vehicles"
+        },
+        {
+          "value": 61493.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 15372.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x--x-4-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cnew-bus-routes"
+        },
+        {
+          "value": 666.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 167.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x--x-4-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ccycling-infrastructure"
+        },
+        {
+          "value": 450.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 113.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cnew-bus-routes"
+        },
+        {
+          "value": 887.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 222.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpersonal-vehicles"
+        },
+        {
+          "value": 40995.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 10249.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x-2-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cnew-bus-routes"
+        },
+        {
+          "value": 444.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 111.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x-2-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ccycling-infrastructure"
+        },
+        {
+          "value": 300.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 75.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x-3",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ccycling-infrastructure"
+        },
+        {
+          "value": 600.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 150.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x-4",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cpersonal-vehicles"
+        },
+        {
+          "value": 20497.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 5125.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x-4-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cnew-bus-routes"
+        },
+        {
+          "value": 222.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 56.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "vehicles-replaced---x-4-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Ccycling-infrastructure"
+        },
+        {
+          "value": 150.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 38.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 1,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "waste-reduced",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cwaste-reduction"
+        },
+        {
+          "value": 11655.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 6.7e3,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "waste-reduced---0",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cwaste-reduction"
+        },
+        {
+          "value": 0.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 0.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "waste-reduced---x",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cwaste-reduction"
+        },
+        {
+          "value": 23310.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 1.34e4,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "waste-reduced-1",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cwaste-reduction"
+        },
+        {
+          "value": 5827.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 3350.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    },
+    {
+      "name": "waste-reduced-2",
+      "details": [
+        {
+          "value": 1,
+          "name": "Cwaste-reduction"
+        },
+        {
+          "value": 17483.0,
+          "name": "Dghg_reduction_10_yrs"
+        },
+        {
+          "value": 0.0,
+          "name": "Dswimming_pools_retrofit"
+        },
+        {
+          "value": 10050.0,
+          "name": "Dwaste_reduced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dbuses_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dvehicles_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dunits_replaced"
+        },
+        {
+          "value": 0.0,
+          "name": "Dmulti_family_units"
+        },
+        {
+          "value": 0.0,
+          "name": "Dhouses"
+        },
+        {
+          "value": 1,
+          "name": "Gall_options"
+        },
+        {
+          "value": 0,
+          "name": "Gcycling_infrastructure_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gdistrict_heating_yes_1"
+        },
+        {
+          "value": 0,
+          "name": "Gmulti_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gnew_bus_routes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpersonal_vehicles_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gpublic_transportation_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gsingle_family_homes_yes"
+        },
+        {
+          "value": 0,
+          "name": "Gswimming_pool_solorization_yes"
+        },
+        {
+          "value": 0,
+          "name": "Guncategorized_options_yes"
+        },
+        {
+          "value": 1,
+          "name": "Gwaste_reduction_yes"
+        }
+      ]
+    }
+  ],
+  "fragments": [
+    {
+      "name": "waste_reduction_yes_selected_count",
+      "code": "$Gwaste_reduction_yes"
+    },
+    {
+      "name": "waste_reduction_yes_all_count",
+      "code": "5"
+    },
+    {
+      "name": "cycling_infrastructure_yes_selected_count",
+      "code": "$Gcycling_infrastructure_yes"
+    },
+    {
+      "name": "cycling_infrastructure_yes_all_count",
+      "code": "5"
+    },
+    {
+      "name": "new_bus_routes_yes_selected_count",
+      "code": "$Gnew_bus_routes_yes"
+    },
+    {
+      "name": "new_bus_routes_yes_all_count",
+      "code": "5"
+    },
+    {
+      "name": "public_transportation_yes_selected_count",
+      "code": "$Gpublic_transportation_yes"
+    },
+    {
+      "name": "public_transportation_yes_all_count",
+      "code": "5"
+    },
+    {
+      "name": "personal_vehicles_yes_selected_count",
+      "code": "$Gpersonal_vehicles_yes"
+    },
+    {
+      "name": "personal_vehicles_yes_all_count",
+      "code": "5"
+    },
+    {
+      "name": "district_heating_yes_1_all_count",
+      "code": "5"
+    },
+    {
+      "name": "district_heating_yes_1_selected_count",
+      "code": "$Gdistrict_heating_yes_1"
+    },
+    {
+      "name": "swimming_pool_solorization_yes_selected_count",
+      "code": "$Gswimming_pool_solorization_yes"
+    },
+    {
+      "name": "swimming_pool_solorization_yes_all_count",
+      "code": "5"
+    },
+    {
+      "name": "swimming_pools_retrofit_selected_sum",
+      "code": "$Dswimming_pools_retrofit"
+    },
+    {
+      "name": "swimming_pools_retrofit_all_sum",
+      "code": "sum_all[i in x]{$Dswimming_pools_retrofit[i]}"
+    },
+    {
+      "name": "swimming_pools_retrofit_selected_mean",
+      "code": "mean[i in x]{$Dswimming_pools_retrofit[i]}"
+    },
+    {
+      "name": "swimming_pools_retrofit_all_mean",
+      "code": "mean_all[i in x]{$Dswimming_pools_retrofit[i]}"
+    },
+    {
+      "name": "waste_reduced_all_mean",
+      "code": "mean_all[i in x]{$Dwaste_reduced[i]}"
+    },
+    {
+      "name": "waste_reduced_selected_mean",
+      "code": "mean[i in x]{$Dwaste_reduced[i]}"
+    },
+    {
+      "name": "waste_reduced_all_sum",
+      "code": "sum_all[i in x]{$Dwaste_reduced[i]}"
+    },
+    {
+      "name": "waste_reduced_selected_sum",
+      "code": "$Dwaste_reduced"
+    },
+    {
+      "name": "buses_replaced_all_mean",
+      "code": "mean_all[i in x]{$Dbuses_replaced[i]}"
+    },
+    {
+      "name": "buses_replaced_selected_mean",
+      "code": "mean[i in x]{$Dbuses_replaced[i]}"
+    },
+    {
+      "name": "buses_replaced_all_sum",
+      "code": "sum_all[i in x]{$Dbuses_replaced[i]}"
+    },
+    {
+      "name": "buses_replaced_selected_sum",
+      "code": "$Dbuses_replaced"
+    },
+    {
+      "name": "units_replaced_all_mean",
+      "code": "mean_all[i in x]{$Dunits_replaced[i]}"
+    },
+    {
+      "name": "units_replaced_selected_mean",
+      "code": "mean[i in x]{$Dunits_replaced[i]}"
+    },
+    {
+      "name": "units_replaced_all_sum",
+      "code": "sum_all[i in x]{$Dunits_replaced[i]}"
+    },
+    {
+      "name": "units_replaced_selected_sum",
+      "code": "$Dunits_replaced"
+    },
+    {
+      "name": "vehicles_replaced_all_mean",
+      "code": "mean_all[i in x]{$Dvehicles_replaced[i]}"
+    },
+    {
+      "name": "vehicles_replaced_selected_mean",
+      "code": "mean[i in x]{$Dvehicles_replaced[i]}"
+    },
+    {
+      "name": "vehicles_replaced_all_sum",
+      "code": "sum_all[i in x]{$Dvehicles_replaced[i]}"
+    },
+    {
+      "name": "vehicles_replaced_selected_sum",
+      "code": "$Dvehicles_replaced"
+    },
+    {
+      "name": "multi_family_units_all_mean",
+      "code": "mean_all[i in x]{$Dmulti_family_units[i]}"
+    },
+    {
+      "name": "multi_family_units_selected_mean",
+      "code": "mean[i in x]{$Dmulti_family_units[i]}"
+    },
+    {
+      "name": "multi_family_units_all_sum",
+      "code": "sum_all[i in x]{$Dmulti_family_units[i]}"
+    },
+    {
+      "name": "multi_family_units_selected_sum",
+      "code": "$Dmulti_family_units"
+    },
+    {
+      "name": "houses_all_mean",
+      "code": "mean_all[i in x]{$Dhouses[i]}"
+    },
+    {
+      "name": "houses_selected_mean",
+      "code": "mean[i in x]{$Dhouses[i]}"
+    },
+    {
+      "name": "houses_all_sum",
+      "code": "sum_all[i in x]{$Dhouses[i]}"
+    },
+    {
+      "name": "houses_selected_sum",
+      "code": "$Dhouses"
+    },
+    {
+      "name": "all_options_selected_count",
+      "code": "$Gall_options"
+    },
+    {
+      "name": "all_options_all_count",
+      "code": "45"
+    },
+    {
+      "name": "uncategorized_options_yes_selected_count",
+      "code": "$Guncategorized_options_yes"
+    },
+    {
+      "name": "uncategorized_options_yes_all_count",
+      "code": "0"
+    },
+    {
+      "name": "ghg_reduction_10_yrs_all_mean",
+      "code": "mean_all[i in x]{$Dghg_reduction_10_yrs[i]}"
+    },
+    {
+      "name": "ghg_reduction_10_yrs_selected_mean",
+      "code": "mean[i in x]{$Dghg_reduction_10_yrs[i]}"
+    },
+    {
+      "name": "ghg_reduction_10_yrs_all_sum",
+      "code": "sum_all[i in x]{$Dghg_reduction_10_yrs[i]}"
+    },
+    {
+      "name": "ghg_reduction_10_yrs_selected_sum",
+      "code": "$Dghg_reduction_10_yrs"
+    },
+    {
+      "name": "multi_family_homes_yes_selected_count",
+      "code": "$Gmulti_family_homes_yes"
+    },
+    {
+      "name": "multi_family_homes_yes_all_count",
+      "code": "5"
+    },
+    {
+      "name": "single_family_homes_yes_selected_count",
+      "code": "$Gsingle_family_homes_yes"
+    },
+    {
+      "name": "single_family_homes_yes_all_count",
+      "code": "5"
+    }
+  ],
+  "displays": [
+    {
+      "name": "ghg-reduction-target",
+      "code": "129500"
+    },
+    {
+      "name": "ghg-reduction",
+      "code": "@ghg_reduction_10_yrs_selected_sum"
+    }
+  ],
+  "criteria": [
+    "approval"
+  ],
+  "constraints": [
+    {
+      "name": "125k-target",
+      "code": "[@ghg_reduction_10_yrs_selected_sum] <= 1.3e5"
+    },
+    {
+      "name": "__auto_xor6547",
+      "code": "[@waste_reduction_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor6545",
+      "code": "[@cycling_infrastructure_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor6543",
+      "code": "[@new_bus_routes_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor6541",
+      "code": "[@public_transportation_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor6539",
+      "code": "[@personal_vehicles_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor6536",
+      "code": "[@district_heating_yes_1_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor6535",
+      "code": "[@swimming_pool_solorization_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor6489",
+      "code": "[@multi_family_homes_yes_selected_count] = 1.0"
+    },
+    {
+      "name": "__auto_xor6487",
+      "code": "[@single_family_homes_yes_selected_count] = 1.0"
+    }
+  ]
+}
