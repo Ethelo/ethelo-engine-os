@@ -104,7 +104,7 @@ namespace ethelo
         }
 
         size_t whitelist_size = options_.size()-exclusions.size();
-        size_t criteria_size = influents_.n_cols / options_.size(); 
+        size_t criteria_size = influents_.n_cols / options_.size();
         std::vector<option> scoped_options(whitelist_size);
         exclusions_in_scope_ = arma::mat(exclusions_.n_rows, whitelist_size); //scenario exclusions
         influents_in_scope_ = arma::mat(influents_.n_rows, whitelist_size*criteria_size);
@@ -126,11 +126,11 @@ namespace ethelo
                 scoped_options[target_i] = options_[i];
                 original_option_indexes_[target_i] = i;
 
-                detail_sums_ptr = &included_option_detail_sums; 
+                detail_sums_ptr = &included_option_detail_sums;
                 target_i++;
             } else {
                 PLOGD << "Excluding option: " << cur_option.name();
-                detail_sums_ptr = &excluded_option_detail_sums; 
+                detail_sums_ptr = &excluded_option_detail_sums;
             }
 
             for(auto cur_detail : cur_option.details()) {
@@ -142,23 +142,24 @@ namespace ethelo
 
         // exclude details where:
         // 1) they are not set, or are 0, for in-scope options; and
-        // 2) there is an excluded option that is non-zero; constraints with these excluded details will be relaxed 
+        // 2) there is an excluded option that is non-zero; constraints with these excluded details will be relaxed
         for (std::pair<std::string, double> excluded_sum : excluded_option_detail_sums) {
             if(std::abs(excluded_sum.second) > std::numeric_limits<double>::epsilon() &&
                std::abs(included_option_detail_sums[excluded_sum.first]) < std::numeric_limits<double>::epsilon()) {
                 PLOGD << "Excluding detail: " << excluded_sum.first << "(sum in excluded options: " << excluded_sum.second <<
                          "; sum in included options: " << included_option_detail_sums[excluded_sum.first] << ")";
                 excluded_details_.insert(excluded_sum.first);
-            } 
+            }
         }
         PLOGD << "Excluded detail count: " << excluded_details_.size();
     }
 
-    const bool problem::is_detail_excluded(const std::string detail_name) const {
+    bool problem::is_detail_excluded(const std::string detail_name) const {
+
         return excluded_details_.find(detail_name) != excluded_details_.end();
     }
-	
-	void problem::linkMathProgram(const MathProgram* MP){ 
+
+	void problem::linkMathProgram(const MathProgram* MP){
 		assert(MP->n_var() == original_options().size());
 		assert(MP->getConsList().size() == constraints().size()); // no exclusions
 		this->preproc_MP = MP;

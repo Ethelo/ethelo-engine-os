@@ -1,98 +1,101 @@
 #pragma once
+#include <ei.h>
+#include <unordered_map>
+#include <functional>
+#include <sstream>
+#include "conversions.hpp"
+#include "util.hpp"
 
 namespace ethelo
 {
+    // Custom index_sequence implementation
+    template<std::size_t... Is>
+    struct index_sequence {};
+
+    template<std::size_t N, std::size_t... Is>
+    struct make_index_sequence_impl : make_index_sequence_impl<N-1, N-1, Is...> {};
+
+    template<std::size_t... Is>
+    struct make_index_sequence_impl<0, Is...> {
+        using type = index_sequence<Is...>;
+    };
+
+    template<std::size_t N>
+    using make_index_sequence = typename make_index_sequence_impl<N>::type;
+
     template<typename F>
     class erlang_functor {
         using FF = typename function_traits<F>::free_function_type;
         std::function<FF> f;
 
-        template<typename... Args>
-        ETERM* apply(const std::function<void(Args...)>& f, typename std::decay<Args>::type&&... args) {
+        template<typename R, typename... Args>
+        typename std::enable_if<std::is_void<R>::value, void>::type
+        apply_impl(ei_x_buff* buff, const std::function<R(Args...)>& f, Args&&... args) {
             f(std::forward<Args>(args)...);
-            return erl_mk_atom("ok");
+            ei_x_encode_atom(buff, "ok");
         }
 
         template<typename R, typename... Args>
-        typename std::enable_if<!std::is_void<R>::value, ETERM*>::type
-        apply(const std::function<R(Args...)>& f, typename std::decay<Args>::type&&... args) {
-            return erl::as_term(f(std::forward<Args>(args)...));
+        typename std::enable_if<!std::is_void<R>::value, void>::type
+        apply_impl(ei_x_buff* buff, const std::function<R(Args...)>& f, Args&&... args) {
+            erl::encode_term(buff, f(std::forward<Args>(args)...));
         }
 
-        template<size_t... Is>
-        ETERM* apply(ETERM* arguments, std::integer_sequence<Is...>) {
-            // Argument count
+        template<std::size_t... Is>
+        void apply(const char* buf, int* index, ei_x_buff* result, index_sequence<Is...>) {
             constexpr size_t argc = sizeof...(Is);
 
-            // Check number of arguments
-            if (erl_size(arguments) != argc) {
+            int arity;
+            if (ei_decode_tuple_header(buf, index, &arity) < 0 || static_cast<size_t>(arity) != argc) {
                 std::stringstream stream;
-                stream << "Incorrect number of arguments (requires " << argc << " but provided "<< erl_size(arguments) << ")!";
-                return erl::as_error(stream.str());
+                stream << "Incorrect number of arguments (requires " << argc << " but provided " << arity << ")!";
+                erl::encode_error(result, stream.str());
+                return;
             }
 
-            // Prepare arguments
-            erl::unique_term argv[] = {erl::unique_term(erl_element(Is + 1, arguments))...};
-
-            // Context info helper
-            int last_argc = 0;
-            ETERM* last_argv = NULL;
-            auto get_arg = [&](int index) {
-                last_argc = index;
-                last_argv = argv[index].get();
-                return last_argv;
-            };
-
-            // Execute function and return result
-            ETERM* result = NULL;
             try {
-                result = apply(f, erl::from_term<typename std::decay<typename function_traits<FF>::template argument<Is>::type>::type>(get_arg(Is))...);
-            }
-            catch(const erl::invalid_argument& e) {
+                apply_impl(result, f, erl::decode_term<typename std::decay<typename function_traits<FF>::template argument<Is>::type>::type>(buf, index)...);
+            } catch(const erl::invalid_argument& e) {
                 std::stringstream stream;
-                stream << "Argument " << last_argc + 1 << " invalid: " << e.what();
-                result = erl::as_error(stream.str());
+                stream << "Argument " << (sizeof...(Is) - argc + 1) << " invalid: " << e.what();
+                erl::encode_error(result, stream.str());
+            } catch(const std::exception& e) {
+                erl::encode_error(result, e.what());
             }
-            catch(const std::exception& e) {
-                result = erl::as_error(e.what());
-            }
-            return result;
         }
 
     public:
-        erlang_functor(std::function<FF> func)
-            : f(func) {};
+        erlang_functor(std::function<FF> func) : f(func) {}
 
-        ETERM* operator() (ETERM* arguments) {
-            return apply(arguments, std::make_integer_sequence<function_traits<FF>::arity>());
+        void operator() (const char* buf, int* index, ei_x_buff* result) {
+            apply(buf, index, result, make_index_sequence<function_traits<FF>::arity>{});
         }
     };
-
     class processor
     {
         bool _entered = false;
         bool _exit = false;
-        std::unordered_map<std::string, std::function<ETERM* (ETERM*)>> _commands;
+        std::unordered_map<std::string, std::function<void (const char*, int*, ei_x_buff*)>> _commands;
 
-        static int write_term(ETERM* term);
+        static int write_term(ei_x_buff* buff);
 
     public:
         int main();
 
     protected:
         template<typename Klass>
-        void add(std::string name, ETERM* (Klass::*function) (ETERM*)) {
-            _commands[name] = std::bind(function, (Klass*) this, std::placeholders::_1);
+        void add(std::string name, void (Klass::*function) (const char*, int*, ei_x_buff*)) {
+            _commands[name] = std::bind(function, (Klass*) this, std::placeholders::_1, std::placeholders::_2, std::placeholders::_3);
         }
 
         template<typename Func>
         void bind(std::string name, Func func) {
-            _commands[name] = std::bind(erlang_functor<Func>(easy_bind(func)), std::placeholders::_1);
+            _commands[name] = std::bind(erlang_functor<Func>(easy_bind(func)), std::placeholders::_1, std::placeholders::_2, std::placeholders::_3);
         }
 
         template<typename Klass, typename Func>
         void bind(std::string name, Func func, Klass* instance) {
-            _commands[name] = std::bind(erlang_functor<Func>(easy_bind(func, instance)), std::placeholders::_1);
+            _commands[name] = std::bind(erlang_functor<Func>(easy_bind(func, instance)), std::placeholders::_1, std::placeholders::_2, std::placeholders::_3);
         }
 
         void remove(std::string name) {
@@ -109,9 +112,9 @@ namespace ethelo
             _exit = true;
         }
 
-        virtual ETERM* invoke(const std::string& name, const std::function<ETERM* (ETERM*)>& function, ETERM* arguments);
+        virtual void invoke(const std::string& name, const std::function<void (const char*, int*, ei_x_buff*)>& function, const char* buf, int* index, ei_x_buff* result);
 
-        virtual void on_init() {};
-        virtual void on_exit() {};
+        virtual void on_init() {}
+        virtual void on_exit() {}
     };
 }

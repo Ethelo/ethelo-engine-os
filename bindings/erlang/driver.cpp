@@ -1,7 +1,8 @@
 #include "driver.hpp"
+#include <ei.h>
 
 int main () {
-    erl_init(NULL, 0);
+    ei_init();
     freopen("/dev/null", "w", stdout);
     freopen("/dev/null", "w", stderr);
     ethelo::engine_processor processor;

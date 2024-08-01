@@ -1,12 +1,13 @@
 #pragma once
+#include <ei.h>
+#include <string>
 
 namespace ethelo
 {
     class engine_processor : public processor
     {
-        ETERM* solve(const std::string& decision_json, const std::string& influents_json, const std::string& weights_json, const std::string& config_json, const std::string& preproc_data="");
-		
-		ETERM* preproc(const std::string& decision_json);
+        void solve(const char* buf, int* index, ei_x_buff* result);
+        void preproc(const char* buf, int* index, ei_x_buff* result);
 
     public:
         engine_processor();

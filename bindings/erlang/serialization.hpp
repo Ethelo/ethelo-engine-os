@@ -22,7 +22,7 @@ namespace db
         }
 
         virtual void serialize(void* data, size_t length) = 0;
-        virtual void seek(size_t position) {};
+        virtual void seek(size_t position) { (void)position; };
         virtual size_t tell() const { return 0; }
         virtual size_t size() const { return 0; }
         virtual bool good() const { return true; }

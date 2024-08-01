@@ -1,4 +1,6 @@
 #include "driver.hpp"
+#include <ei.h>
+#include <cstring>
 
 namespace ethelo
 {
@@ -8,41 +10,51 @@ namespace ethelo
         _entered = true;
 
         on_init();
-        std::vector<char> input, output;
+        std::vector<char> input;
+        ei_x_buff result;
         while(erl::read_packet(input) > 0 && !_exit) {
-            ETERM* term = erl_decode((unsigned char*) input.data());
-            ETERM* func = erl_element(1, term);
-            ETERM* args = erl_element(2, term);
-            if (func && args && ERL_IS_ATOM(func) && ERL_IS_TUPLE(args)) {
-                ETERM* response = NULL;
-                auto icmd = _commands.find(ERL_ATOM_PTR(func));
-                if (icmd != _commands.end())
-                    response = invoke(icmd->first, icmd->second, args);
-                else
-                    response = erl::as_error("Function not found!");
+            int index = 0;
+            int version;
+            ei_decode_version(input.data(), &index, &version);
 
-                if (!response)
-                    response = erl_mk_atom("ok");
-
-                write_term(response);
-                erl_free_compound(response);
+            int arity;
+            ei_decode_tuple_header(input.data(), &index, &arity);
+            if (arity != 2) {
+                // Handle error: unexpected tuple size
+                continue;
             }
-            erl_free_compound(term);
+
+            int type, size;
+            char atom_name[MAXATOMLEN];
+            ei_get_type(input.data(), &index, &type, &size);
+            if (type != ERL_ATOM_EXT) {
+                // Handle error: expected atom
+                continue;
+            }
+            ei_decode_atom(input.data(), &index, atom_name);
+
+            ei_x_new(&result);
+            auto icmd = _commands.find(atom_name);
+            if (icmd != _commands.end()) {
+                invoke(icmd->first, icmd->second, input.data(), &index, &result);
+            } else {
+                erl::encode_error(&result, "Function not found!");
+            }
+
+            write_term(&result);
+            ei_x_free(&result);
         }
         on_exit();
         return 0;
     }
 
-    int processor::write_term(ETERM* term)
+    int processor::write_term(ei_x_buff* buff)
     {
-        std::vector<char> buffer;
-        buffer.resize(erl_term_len(term));
-        erl_encode(term, (unsigned char*) buffer.data());
-        return erl::write_packet(buffer);
+        return erl::write_packet(std::vector<char>(buff->buff, buff->buff + buff->index));
     }
 
-    ETERM* processor::invoke(const std::string& name, const std::function<ETERM* (ETERM*)>& function, ETERM* arguments)
+    void processor::invoke(const std::string& name, const std::function<void (const char*, int*, ei_x_buff*)>& function, const char* buf, int* index, ei_x_buff* result)
     {
-        return function(arguments);
+        function(buf, index, result);
     }
 }

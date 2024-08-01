@@ -20,7 +20,6 @@
 #include "api.hpp"
 
 #include "ei.h"
-#include "erl_interface.h"
 
 #include "util.hpp"
 #include "conversions.hpp"

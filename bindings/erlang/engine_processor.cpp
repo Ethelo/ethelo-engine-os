@@ -1,67 +1,89 @@
 #include "driver.hpp"
+#include <ei.h>
 
 namespace ethelo
 {
-    static ETERM* error(const erl::atom& type, const std::string& description) {
-        return erl::as_term(std::tuple<erl::atom, std::tuple<erl::atom, std::string>>("error", std::tuple<erl::atom, std::string>(type, description)));
+    static void encode_error(ei_x_buff* buff, const erl::atom& type, const std::string& description) {
+        ei_x_encode_tuple_header(buff, 2);
+        ei_x_encode_atom(buff, "error");
+        ei_x_encode_tuple_header(buff, 2);
+        erl::encode_term(buff, type);
+        erl::encode_term(buff, description);
     }
 
-    ETERM* engine_processor::solve(const std::string& decision_json, const std::string& influents_json, const std::string& weights_json, const std::string& config_json, const std::string& preproc_data) {
+    void engine_processor::solve(const char* buf, int* index, ei_x_buff* result) {
+        std::string decision_json = erl::decode_term<std::string>(buf, index);
+        std::string influents_json = erl::decode_term<std::string>(buf, index);
+        std::string weights_json = erl::decode_term<std::string>(buf, index);
+        std::string config_json = erl::decode_term<std::string>(buf, index);
+        std::string preproc_data = erl::decode_term<std::string>(buf, index);
+
         try {
-            auto result = interface::solve(decision_json, influents_json, weights_json, config_json, preproc_data);
-            return erl::as_term(std::tuple<erl::atom, std::string>("ok", result));
+            auto solution = interface::solve(decision_json, influents_json, weights_json, config_json, preproc_data);
+            ei_x_encode_tuple_header(result, 2);
+            ei_x_encode_atom(result, "ok");
+            erl::encode_term(result, solution);
         }
         catch(const interface::parameter_error& ex) {
-            return error("parameter_error", ex.what());
+            encode_error(result, "parameter_error", ex.what());
         }
         catch(const syntax_error& ex) {
-            return error("syntax_error", ex.what());
+            encode_error(result, "syntax_error", ex.what());
         }
         catch(const semantic_error& ex) {
-            return error("semantic_error", ex.what());
+            encode_error(result, "semantic_error", ex.what());
         }
     }
-	
-	ETERM* engine_processor::preproc(const std::string& decision_json){
-		// mimics engine_processor::solve
-		try{
-			auto result = interface::preproc(decision_json);
-			return erl::as_term(std::tuple<erl::atom, std::string>("ok", result));
-		}
-		catch(const std::invalid_argument& e){
-			return error("invalid_argument", e.what());
-		}
-	}
 
-    static ETERM* validate(const erl::atom& type, const std::string& code) {
-        try { interface::validate(type, code); }
+    void engine_processor::preproc(const char* buf, int* index, ei_x_buff* result) {
+        std::string decision_json = erl::decode_term<std::string>(buf, index);
+        try {
+            auto preproc_result = interface::preproc(decision_json);
+            ei_x_encode_tuple_header(result, 2);
+            ei_x_encode_atom(result, "ok");
+            erl::encode_term(result, preproc_result);
+        }
+        catch(const std::invalid_argument& e) {
+            encode_error(result, "invalid_argument", e.what());
+        }
+    }
+
+    static void validate(const char* buf, int* index, ei_x_buff* result) {
+        erl::atom type = erl::decode_term<erl::atom>(buf, index);
+        std::string code = erl::decode_term<std::string>(buf, index);
+        try {
+            interface::validate(type, code);
+            ei_x_encode_atom(result, "ok");
+        }
         catch(const interface::parameter_error& ex) {
-            return error("parameter_error", ex.what());
+            encode_error(result, "parameter_error", ex.what());
         }
         catch(const syntax_error& ex) {
-            return error("syntax_error", ex.what());
+            encode_error(result, "syntax_error", ex.what());
         }
         catch(const semantic_error& ex) {
-            return error("semantic_error", ex.what());
+            encode_error(result, "semantic_error", ex.what());
         }
-
-        return erl::as_term<erl::atom>("ok");
     }
 
-    static std::tuple<erl::atom, std::string> version() {
-        return std::tuple<erl::atom, std::string>("ok", interface::version());
+    static void version(const char* buf, int* index, ei_x_buff* result) {
+        ei_x_encode_tuple_header(result, 2);
+        ei_x_encode_atom(result, "ok");
+        erl::encode_term(result, interface::version());
     }
-	
-	static std::tuple<erl::atom, std::string> hash(const std::string& str) {
-		// mimics version() above
-        return std::tuple<erl::atom, std::string>("ok", interface::hash(str));
+
+    static void hash(const char* buf, int* index, ei_x_buff* result) {
+        std::string str = erl::decode_term<std::string>(buf, index);
+        ei_x_encode_tuple_header(result, 2);
+        ei_x_encode_atom(result, "ok");
+        erl::encode_term(result, interface::hash(str));
     }
-	
+
     engine_processor::engine_processor() {
         bind("solve", &engine_processor::solve, this);
-		bind("preproc", &engine_processor::preproc, this);
+        bind("preproc", &engine_processor::preproc, this);
         bind("validate", &validate);
-		bind("hash", &hash);
+        bind("hash", &hash);
         bind("version", &version);
     }
 }
