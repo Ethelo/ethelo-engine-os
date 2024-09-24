@@ -1,6 +1,6 @@
 #pragma once
 
-#include "coin/BonTMINLP.hpp"
+#include "coin-or/BonTMINLP.hpp"
 #include "../nuclear_ethelo.hpp"
 #include "tminlp_Base.hpp"
 

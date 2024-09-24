@@ -3,7 +3,7 @@
 #include <cppad/ipopt/solve_result.hpp>
 #include <cppad/ipopt/solve_callback.hpp>
 
-#include "coin/BonTMINLP.hpp"
+#include "coin-or/BonTMINLP.hpp"
 #include "../ethelo.hpp"
 
 // Base class for custom BONMIN interfaces

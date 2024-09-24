@@ -3,7 +3,7 @@
 #include <cppad/ipopt/solve_result.hpp>
 #include <cppad/ipopt/solve_callback.hpp>
 
-#include "coin/BonTMINLP.hpp"
+#include "coin-or/BonTMINLP.hpp"
 #include "../ADShorthands.hpp"
 #include "../atomic_ethelo.hpp"
 #include "tminlp_Base.hpp"

@@ -4,11 +4,11 @@
 #include <stdlib.h>
 
 //CBC packages
-#include "coin/CoinPragma.hpp"
-#include "coin/OsiClpSolverInterface.hpp"
-#include "coin/CoinPackedVector.hpp"
-#include "coin/CbcModel.hpp"
-#include "coin/CoinPackedMatrix.hpp"
+#include "coin-or/CoinPragma.hpp"
+#include "coin-or/OsiClpSolverInterface.hpp"
+#include "coin-or/CoinPackedVector.hpp"
+#include "coin-or/CbcModel.hpp"
+#include "coin-or/CoinPackedMatrix.hpp"
 
 #include <stdio.h>
 #include <iostream>

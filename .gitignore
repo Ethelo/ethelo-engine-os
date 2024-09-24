@@ -7,7 +7,6 @@ CTestTestfile.cmake
 install_manifest.txt
 compile_commands.json
 Testing
-lib
 bin
 /build
 /docker-compose.override.yml

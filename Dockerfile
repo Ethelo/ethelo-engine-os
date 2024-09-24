@@ -34,7 +34,9 @@ RUN apt-get update && apt-get install -y \
        antlr3 \
        gdb \
        valgrind \
-       
+       unzip \
+       inotify-tools \
+       libelf1 libelf-dev \
     && sed -i -e 's/# en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/' /etc/locale.gen \
     && echo 'LANG="en_US.UTF-8"'>/etc/default/locale \
     && dpkg-reconfigure --frontend=noninteractive locales \
@@ -53,6 +55,8 @@ RUN echo "/usr/lib/erlang/lib/erl_interface-*/lib" > /etc/ld.so.conf.d/erlang.co
 ENV ERLANG_HOME=/usr/lib/erlang
 ENV PATH=$PATH:$ERLANG_HOME/bin
 
+# fix Mac M2 Chip errors ( https://elixirforum.com/t/cant-compile-elixir-phoenix-api-in-docker-build-step/56863/6 )
+ENV ERL_FLAGS="+JPperf true"
 # Clean up
 RUN apt-get clean \
     && apt-get autoremove \
@@ -65,6 +69,48 @@ COPY ./3rdparty /tmp/3p
 WORKDIR /tmp/3p/
 RUN ./ethelo.sh && rm -rf *
 
+# Copy the source code to /app
+COPY . /app
+
+ENV LD_LIBRARY_PATH=/app/build/lib:$LD_LIBRARY_PATH
+# Build driver
+WORKDIR /app/build
+RUN cmake /app && make
+
+
+# Download and Install Specific Version of Elixir
+
+ARG ELIXIR_VERSION=v1.17.2
+ARG OTP_VERSION=elixir-otp-26
+
+RUN mkdir -p /app/elixir
+WORKDIR /app/elixir
+RUN wget -q https://github.com/elixir-lang/elixir/releases/download/${ELIXIR_VERSION}/${OTP_VERSION}.zip \
+  && unzip ${OTP_VERSION}.zip \
+  && rm -f ${OTP_VERSION}.zip \
+  && ln -s /app/elixir/bin/elixirc /usr/local/bin/elixirc \
+  && ln -s /app/elixir/bin/elixir /usr/local/bin/elixir \
+  && ln -s /app/elixir/bin/mix /usr/local/bin/mix \
+  && ln -s /app/elixir/bin/iex /usr/local/bin/iex
+
+RUN echo yes | mix do local.hex, local.rebar, archive.install github hexpm/hex branch latest
+RUN echo yes | mix do hex phoenix 1.7.14
+
+# Move driver to Elixir
+COPY ./elixir_engine /app/elixir_engine
+
+# Ensure the target directory exists
+RUN mkdir -p /app/elixir_engine/priv/bin
+
+# Move the driver
+RUN mv /app/build/bin/ethelo_driver /app/elixir_engine/priv/bin/ethelo_driver
+
+WORKDIR /app/elixir_engine
+
+# Set environment variables and build Elixir project
+ENV MIX_ENV=prod
+RUN mix deps.get
+RUN mix compile
 
 VOLUME /app
 WORKDIR /app

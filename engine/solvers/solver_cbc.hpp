@@ -3,7 +3,7 @@
 #include "../ethelo.hpp"
 
 // #include "ethelo_tminlp.hpp"
-#include "coin/OsiClpSolverInterface.hpp"
+#include "coin-or/OsiClpSolverInterface.hpp"
 // #include <cppad/ipopt/solve_result.hpp>
 // #include <cppad/ipopt/solve_callback.hpp>
 

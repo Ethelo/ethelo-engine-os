@@ -1,8 +1,8 @@
 #include "../ethelo.hpp"
 #include "../mathModelling.hpp"
 
-#include "coin/BonBonminSetup.hpp"
-#include "coin/BonCbc.hpp"
+#include "coin-or/BonBonminSetup.hpp"
+#include "coin-or/BonCbc.hpp"
 
 #include "solver_bonmin.hpp"
 #include "tminlp_MP.hpp"
